@@ -1,0 +1,53 @@
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\isa.csprojResolveAssemblyReference.cache
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form1.resources
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form3.resources
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form4.resources
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form5.resources
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\isa.csproj.GenerateResource.cache
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.exe
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.pdb
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe.config
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.pdb
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.xml
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Properties.Resources.resources
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll.config
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.CoreCompileInputs.cache
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.CopyComplete
+E:\University\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form2.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe.config
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.pdb
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.xml
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll.config
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csprojResolveAssemblyReference.cache
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form1.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form2.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form3.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form4.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form5.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Properties.Resources.resources
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.GenerateResource.Cache
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.CoreCompileInputs.cache
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.exe
+E:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.pdb
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe.config
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.exe
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\Dogbytes.pdb
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.xml
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\bin\Debug\System.Data.SQLite.dll.config
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csprojAssemblyReference.cache
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form1.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form2.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form3.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form4.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Form5.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.Properties.Resources.resources
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.GenerateResource.cache
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.CoreCompileInputs.cache
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\ISA.csproj.CopyComplete
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.exe
+F:\University\Year 1\Computer programming\SQL\Coursework\ISA\ISA\obj\Debug\Dogbytes.pdb
