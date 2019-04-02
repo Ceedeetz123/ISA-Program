@@ -1,0 +1,348 @@
+/*Main Structure*/
+.col/*nav bar*/{
+text-align:center;
+vertical-align:middle;
+border-style:inline;
+height:100px;
+padding-top: 30px;
+}
+.page{
+display:none !important;	
+}
+.footer/*footer*/{
+background:grey;
+text-align:center;
+}
+
+.nav.navbar-nav/*whole navigation bar*/{
+display:-webkit-inline-box;
+
+}
+
+.col /*main body for any content*/{
+height: auto;
+}
+
+.fadein/*fade in animation*/{
+opacity:0;
+
+}
+.fadeinleft/*fade right animation*/{
+ opacity:0;
+ margin-left:-1800px; 
+ max-width:100%;
+}
+.fadeinleft hr/*fade right animation*/{
+ border-width:5px;
+}
+/*Video Background*/
+/*Whole video stucture*/
+header {
+  position: relative;
+  background-color: black;
+  height: 75vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+/*Video itself*/
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+
+}
+/*Video overlay*/
+ .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+header{
+height:500px;
+}
+	
+@media (pointer: coarse) and (hover: none) /*Deactivating video when the user's mouse is not active in the website*/{
+  header{
+    background: url('Resources/Picture/background.jpg') black no-repeat center center scroll;
+  
+  }
+  header video {
+    display: none;
+  }
+}
+.sociallinks /*social links in footer*/{
+position:sticky;
+
+}
+.sociallinks img/*social media images*/{
+margin:15px;
+
+}
+
+.footer p /*footer*/{
+margin-bottom: 0px !important;
+}
+.newsletter input[type="submit"],input[type="text"]/*positions of input boxes*/{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.newsletter h3/*newsletter Text*/{
+text-align:center;
+font-weight: bolder
+}
+.newsletter input[type="text"]/*newsletter input boxes*/{
+  width:80%;
+}
+.newsletter input[type="submit"]/*newsletter submit button*/{
+width: 80%;
+ border-color: gray;
+}
+input.form-control/*Default bootstrap form styling*/ {
+  width: auto;
+}
+
+.newsletter.nav ,.newsletter.nav a/*newsletter buttons*/ {
+display: block;
+font-size: 20px;
+color:#1a1616;
+float: left;
+}
+/*Desktop Navigation with animations*/
+.nav.navbar-nav * { 
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.nav.navbar-nav li, ,.current li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 2em;
+  padding: 0;
+  margin-left:-25px;
+}
+.nav.navbar-nav a {
+  display: inline-block;
+  padding: 0.5em 17px;
+  color: black;
+  position: relative;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.nav.navbar-nav a:before {
+  left: 20%;
+  right: 20%;
+  top: 50%;
+  content: '';
+  border-left: 12px solid #9b59b6;
+  border-right: 12px solid #9b59b6;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 3px;
+  opacity: 0;
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.nav.navbar-nav a:hover,
+.nav.navbar-nav .current a {
+  color: Grey;
+}
+.nav.navbar-nav a:hover:before,
+.nav.navbar-nav .current a:before {
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+/*Video Background text*/
+.display-3{
+margin-top:100px;
+}
+.sections/*Sub latest reviews*/ {
+border: 1px solid;
+width: auto;
+border-radius:30px;
+margin: auto;
+}
+.mainsection/*main latest reviews*/{
+border: 1px solid;
+width: auto;
+border-width:5px;
+border-radius:30px;
+margin: auto;
+}
+
+
+
+/*Reviews Page*/
+.reviewP img/*review images*/{
+border:1px ridge;
+border-radius: 25px;
+margin-bottom: 40px;
+border-width: 5px;
+float:left;
+
+}
+.reviewP p/*review pictures*/{
+margin-top:30px;
+border:0.5px ridge;
+border-radius: 25px;
+margin-bottom: 40px;
+border-width: 5px;
+height: 250px;
+vertical-align: middle;
+display: table-cell;
+}
+.reviewP a{
+ color: inherit;
+}
+	
+/*About Page*/
+
+#map/*Location map*/{
+height: 379px;
+width: 100%;
+}
+.carousel.slide{
+background: lightgrey;
+}
+.sponser/*Audio tracks*/{
+margin:auto;
+}
+@media only screen and (max-width: 650px)/*For tablet*/{
+	
+.carousel-inner ,.carousel-item,.carousel-inner img,.carousel-item img{/*to match tablet height for the carousel*/ 
+height:400px;
+}
+/*Video Background text*/
+.display-3{
+font-size:8vw;
+}
+.reviewP p/*review pictures*/{
+border:0px;
+float: left;
+margin-top: 250px;
+margin-bottom: -50px;
+	
+}
+.reviewP img/*review images*/{
+border:1px ridge;
+border-radius: 25px;
+margin-bottom: 40px;
+border-width: 5px;
+margin: auto;
+left: 0;
+right: 0;
+display: block;
+position: absolute;
+}
+
+
+
+@media only screen and (max-width: 470px) /*For mobile only css styling*/{
+.nav.navbar-nav{
+display:none; !important;/*Disable main Navigation*/
+}
+.page{
+display:inline-flex !important;/*Enable mobile Navigation*/
+}
+
+/*Off canvas navigation bar*/
+#nav-toggle {
+  position: absolute;
+  opacity: 0;
+  display: none;
+}
+
+.menu {
+  position: fixed;
+  right: -100%;
+  top: 0;
+  height: 100%;
+  width: 250px;
+  z-index:100;
+}
+/*Mobile navigation*/
+#nav-toggle ~ label {
+  display: block;
+  transition: .5s transform;
+  transition-timing-function: cubic-bezier(0.38, 0.52, 0.37, 1.27);
+  width: 100px;
+  text-align: center;
+}
+
+#nav-toggle:checked ~ label {
+  color: white;
+  -webkit-transform: translateX(-250px);
+          transform: translateX(-250px);
+}
+
+#nav-toggle:checked ~ label .toggle-words {
+  display: none;
+}
+#nav-toggle:checked ~ .menu {
+  -webkit-transform: translateX(-100vw);
+          transform: translateX(-100vw);
+}
+
+.menu {
+  cursor: pointer;
+  background-color: #efefef;
+  transition: .53s transform;
+  transition-timing-function: cubic-bezier(0.38, 0.52, 0.37, 1);
+}
+.menu ul {
+  padding: 0;
+  margin: 0;
+}
+.menu li {
+  list-style: none;
+}
+.menu li a {
+  text-decoration: none;
+  color: grey;
+  padding: 20px;
+  display: block;
+  border-bottom: 1px solid #ccc;
+}
+
+.hamburger {
+  position: absolute;
+  top: 4px;
+  right: 0px;
+  display: inline-block;
+}
+/*Video Background text*/
+.display-3{
+font-size:8vw;
+}
+header{
+height:50px;
+}
+
+.carousel-inner ,.carousel-item,.carousel-inner img,.carousel-item img{/*to match mobile height for the carousel*/ 
+height:300px;
+}
+}
+
