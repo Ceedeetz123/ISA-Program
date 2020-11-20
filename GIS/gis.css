@@ -1,0 +1,117 @@
+/*********************
+SideMenu
+*/
+/*Group links*/
+.links{
+	display:inline-grid;
+	background:azure;
+	position: absolute;
+    margin-top: -56px;
+	width: 230px;
+	height:100%;
+}
+/*sidemenu image*/
+.sidemenuImage{
+     height: 50px;
+	display: block;
+    margin-left: 180px;
+}
+
+/*Dropdown global */
+.dropdown{
+}
+
+/*dropdown button parent*/
+#dropdownMenuButton{
+	width: 230px;
+	background: white;
+    color: black;
+	height: 65px;
+	margin-top: -120px;
+}
+/*dropdown button when hovered*/
+#dropdownMenuButton:hover{
+	border: 2px solid gray;
+}
+
+/*dropdown all*/
+.dropdown-menu.show{
+      margin-left: 220px;
+}
+
+/*H1 global*/
+h1{
+	display:table;
+	margin:auto;
+}
+
+/* global*/
+h1{
+	display:table;
+	margin:auto;
+}
+
+/***********
+button icons
+*/
+
+
+/*icons*/
+#sideIcon{
+position: absolute;
+margin-left:30px;
+width:30px;
+
+}
+
+/*leaflet icon*/
+.leafletIcon{
+	margin-left: 40px !important;
+    height: 30px;
+    width: 55px !important;
+}
+/*openlayers icon*/
+.openlayerIcon{
+	height: 25px !important;
+    margin-left: 38px !important;
+	
+}
+/*google map icon*/
+.gmapIcon{
+	width: 45px !important;
+    margin-left: 21px !important;
+    margin-top: -10px !important;
+}
+
+/*bing icon*/
+.bingIcon{
+`	height: 20px !important;
+    width: 40px !important;
+    margin-left: 35px !important;
+}
+/***********
+Map Stuff
+*/
+/*Map space*/
+#map_space,#map_space2{
+	height: 650px !important;
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+	
+	
+}
+/*Part 21 checkboxes*/
+#checkboxOnOff, .btnAnimations{
+	margin-left: 600px;
+}
+
+/*Leaflet Marker Icon*/
+.leaflet-div-icon{
+	background: brown;
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    opacity: 0.8 !important;
+}
