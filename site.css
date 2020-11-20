@@ -40,6 +40,7 @@ a.nav-item.nav-link:hover{
     padding: 2%;
 }
 #portfolioSection img{
+    min-height: 80% !important;
     max-width: 100%;
     height:auto;
 }
@@ -70,8 +71,13 @@ a.nav-item.nav-link:hover{
     text-decoration: none;
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 991px) { /* Tablet */
     .navbar-nav{
         margin-left:100px ;
+    }
+}
+@media only screen and (max-width: 575px) { /* mobile */
+    #portfolioSection .col-sm {
+        margin-top: 40px !important;
     }
 }
